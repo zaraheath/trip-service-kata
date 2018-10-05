@@ -1,0 +1,4 @@
+source 'http://rubygems.org/' do
+    gem 'mocha'
+    gem 'codecov'
+end
